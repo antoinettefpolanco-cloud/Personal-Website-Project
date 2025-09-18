@@ -1,0 +1,25 @@
+body {
+    background-color: lavenderblush;
+}
+
+h1 {
+    font-family: cursive;
+    color: rgb(169, 121, 121);
+}
+
+h2 {
+    font-family: cursive;
+    color: rgb(148, 86, 86);
+}
+
+.friends-family {
+    color: rgb(165, 75, 105);
+}
+
+.music {
+    color: rgb(165, 75, 105);
+}
+
+#home {
+    color:rgb(141, 30, 67);
+}
