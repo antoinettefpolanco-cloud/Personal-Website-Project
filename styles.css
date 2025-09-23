@@ -2,28 +2,22 @@ body {
     background-color: lavenderblush;
 }
 
-h1 {
-    font-family: cursive;
-    color: rgb(169, 121, 121);
+h1, h2 {
+    text-align: center;
+    font-family: Georgia, sans serif;
+    background-color: rgb(233, 185, 201);
+    color: rgb(166, 102, 128);
 }
 
-h2 {
-    font-family: cursive;
-    color: rgb(148, 86, 86);
-}
-
-p {
+p, li {
     color: rgb(159, 38, 78);
 }
 
-.friends-family {
-    color: rgb(165, 75, 105);
-}
-
-.music {
+.picture, .friends-family, .music, .theater {
     color: rgb(165, 75, 105);
 }
 
 #home {
-    color:rgb(141, 30, 67);
+    background-color: rgb(241, 201, 214);
+    color:rgb(141, 30, 67)
 }
